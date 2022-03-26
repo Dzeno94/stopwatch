@@ -1,0 +1,22 @@
+#wrapper{
+    width: 600px;
+    
+    background-color: blueviolet;
+    margin: auto;
+    border-radius: 15px;
+    text-align: center;
+}
+h1{
+padding-top: 30px;
+color: chartreuse;
+}
+
+#counter{
+    padding-top:30px;
+   font-size: 30px;
+}
+#stopwatch{
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+}
